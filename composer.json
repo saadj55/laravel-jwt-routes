@@ -1,0 +1,23 @@
+{
+  "name": "saadj55/laravel-jwt",
+  "description": "A Laravel package for easy implementation of REST API Authentication with JWT web tokens",
+  "keywords": ["laravel", "jwt"],
+  "license": "MIT",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Saad Nasir",
+      "email": "saadj55@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.0",
+    "tymon/jwt-auth": "^0.5.12",
+    "illuminate/routing": "5.5.x",
+    "illuminate/session": "5.5.x",
+    "illuminate/support": "5.5.x",
+    "illuminate/validation": "^5.5",
+    "illuminate/hashing": "^5.5",
+    "illuminate/auth": "^5.5"
+  }
+}
