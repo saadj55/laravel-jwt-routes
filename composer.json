@@ -1,5 +1,5 @@
 {
-  "name": "saadj55/laravel-jwt",
+  "name": "saadj55/laravel-jwt-routes",
   "description": "A Laravel package for easy implementation of REST API Authentication with JWT web tokens",
   "keywords": ["laravel", "jwt"],
   "license": "MIT",
