@@ -19,6 +19,5 @@
     "illuminate/validation": "^5.5",
     "illuminate/hashing": "^5.5",
     "illuminate/auth": "^5.5"
-  },
-  "minimum-stability":"dev-master"
+  }
 }
