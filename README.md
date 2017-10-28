@@ -1,7 +1,9 @@
-# Laravel JWT Routes
+## Laravel JWT REST API Authentication
 
-A Laravel package for easy implementation of REST API Authentication with JWT web tokens
+### How to Install
 
-### TODO
+You can install by running
 
-Write Documentation
+``composer require saadj55/laravel-jwt-routes:"dev-master"``
+
+##### THIS PACKAGE IS NOT PRODUCTION READY. ANY HELP WILL BE APPRECIATED.
